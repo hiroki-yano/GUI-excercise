@@ -1,1 +1,1 @@
-# circle-and-cross
+# GUI-excercise
